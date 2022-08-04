@@ -10,7 +10,7 @@ function App(){
 
  }
   return (
-    <div>
+    <div className="App">
   <div className="calculator">
 <div className="display">
   <span>(0)</span>0
